@@ -118,3 +118,5 @@ Simply fill the environmental variables defined below and your serverless functi
 
 2. After these changes, Slack may require reinstalling of the app.
 
+### Additionally
+For additional explanations of the source code and how to run it locally, you can refer to [the blogpost](https://blog.upstash.com/vercel-note-taker-slackbot).
